@@ -146,6 +146,10 @@ mainset:
     probability: 1
   - name: Halvmångard
     probability: 1
+  - name: Hiruyo
+    probability: 1
+  - name: Kawarea
+    probability: 1
 name: Gawa
 source: null
 subsets: []
