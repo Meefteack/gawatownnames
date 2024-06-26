@@ -130,6 +130,22 @@ mainset:
     probability: 1
   - name: Rapisk
     probability: 1
+  - name: Månøm
+    probability: 1
+  - name: Iskalheim
+    probability: 1
+  - name: Djørdsfelt
+    probability: 1
+  - name: Krysshaven
+    probability: 1
+  - name: Skaljærgård
+    probability: 1
+  - name: Kenoebet
+    probability: 1
+  - name: Fredskjørd
+    probability: 1
+  - name: Halvmångard
+    probability: 1
 name: Gawa
 source: null
 subsets: []
