@@ -150,6 +150,34 @@ mainset:
     probability: 1
   - name: Kawarea
     probability: 1
+  - name: Sakuya
+    probability: 1
+  - name: Yatsui
+    probability: 1
+  - name: Hinakazu
+    probability: 1
+  - name: Komanku
+    probability: 1
+  - name: Tenguko
+    probability: 1
+  - name: Nichikai
+    probability: 1
+  - name: Mitsudai
+    probability: 1
+  - name: Shiwa
+    probability: 1
+  - name: Samajya
+    probability: 1
+  - name: Svarga
+    probability: 1
+  - name: Dungata
+    probability: 1
+  - name: Atihyara
+    probability: 1
+  - name: Cantima
+    probability: 1
+  - name: Ananta
+    probability: 1
 name: Gawa
 source: null
 subsets: []
