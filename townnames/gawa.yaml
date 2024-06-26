@@ -6,11 +6,11 @@ mainset:
     probability: 1
   - name: Adrastéïa
     probability: 1
-  - name: Akrontis
+  - name: Akrotis
     probability: 1
   - name: Alrihjab
     probability: 1
-  - name: Amystis
+  - name: Amystís
     probability: 1
   - name: Angustlig
     probability: 1
@@ -73,6 +73,42 @@ mainset:
   - name: Phosphoros
     probability: 1
   - name: Ourania
+    probability: 1
+  - name: Mwahit
+    probability: 1
+  - name: Lesrynya
+    probability: 1
+  - name: Zamokoz
+    probability: 1
+  - name: Padasos
+    probability: 1
+  - name: Symvolis
+    probability: 1
+  - name: Sonomag
+    probability: 1
+  - name: Pyrkastro
+    probability: 1
+  - name: Ka'anojan
+    probability: 1
+  - name: Perséis
+    probability: 1
+  - name: Hélionthis
+    probability: 1
+  - name: Denlosis
+    probability: 1
+  - name: Mémnokos
+    probability: 1
+  - name: Angustlig
+    probability: 1
+  - name: Kiratov
+    probability: 1
+  - name: Enfinelt
+    probability: 1
+  - name: Néréïs
+    probability: 1
+  - name: Khmet
+    probability: 1
+  - name: Masuk
     probability: 1
 name: Gawa
 source: null
