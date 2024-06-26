@@ -110,6 +110,26 @@ mainset:
     probability: 1
   - name: Masuk
     probability: 1
+  - name: Rhemnondis
+    probability: 1
+  - name: Vunos
+    probability: 1
+  - name: Foramis
+    probability: 1
+  - name: Galtur
+    probability: 1
+  - name: Reklas
+    probability: 1
+  - name: Partones
+    probability: 1
+  - name: Kanerch
+    probability: 1
+  - name: Keralen
+    probability: 1
+  - name: Helanorzh
+    probability: 1
+  - name: Rapisk
+    probability: 1
 name: Gawa
 source: null
 subsets: []
