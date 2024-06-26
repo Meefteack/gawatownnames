@@ -1,0 +1,79 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Adkodeg
+    probability: 1
+  - name: Adrastéïa
+    probability: 1
+  - name: Akrontis
+    probability: 1
+  - name: Alrihjab
+    probability: 1
+  - name: Amystis
+    probability: 1
+  - name: Angustlig
+    probability: 1
+  - name: Chafa
+    probability: 1
+  - name: Delanos
+    probability: 1
+  - name: Rhémnonte
+    probability: 1
+  - name: Némésia
+    probability: 1
+  - name: Disès
+    probability: 1
+  - name: Kýklonésos
+    probability: 1
+  - name: Kýklopólis
+    probability: 1
+  - name: Okeidís
+    probability: 1
+  - name: Zizal
+    probability: 1
+  - name: Pakal
+    probability: 1
+  - name: Janakal
+    probability: 1
+  - name: Whet
+    probability: 1
+  - name: Pnit
+    probability: 1
+  - name: Dwe
+    probability: 1
+  - name: Masuk
+    probability: 1
+  - name: Antrum
+    probability: 1
+  - name: Pumiliosburg
+    probability: 1
+  - name: Rupasberg
+    probability: 1
+  - name: Prostoylumi
+    probability: 1
+  - name: Ledsgrad
+    probability: 1
+  - name: Omorosgrad
+    probability: 1
+  - name: Rabyzgorod
+    probability: 1
+  - name: Cerberus
+    probability: 1
+  - name: Novikhil
+    probability: 1
+  - name: Fyeram
+    probability: 1
+  - name: Krínis
+    probability: 1
+  - name: Dvazukh
+    probability: 1
+  - name: Tsih Sharr
+    probability: 1
+  - name: Phosphoros
+    probability: 1
+  - name: Ourania
+    probability: 1
+name: Gawa
+source: null
+subsets: []
